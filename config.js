@@ -72,7 +72,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Ebay',
-			icon: 'gavel',
+			icon: 'shopping-cart',
 			link: 'https://ebay.com/',
 		},
 
