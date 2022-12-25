@@ -10,9 +10,10 @@ function displayClock() {
 	var d = new Date();
 	var mm = monthNames[d.getMonth()];
 	var dd = d.getDate();
+	var yyyy = d.
 	var min = (mins = ('0' + d.getMinutes()).slice(-2));
 	var hh = d.getHours();
-	var ampm = '';
+	var yyyy = d.getYear();
 
 	if (CONFIG.twelveHourFormat) {
 		ampm = hh >= 12 ? ' pm' : ' am';
@@ -26,6 +27,7 @@ function displayClock() {
 
 	document.getElementById('month').innerText = mm;
 	document.getElementById('day').innerText = dd;
+	document.getElementById('year').innerText = yyyy;
 
 	setTimeout(displayClock, 1000);
 }
