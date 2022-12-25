@@ -10,10 +10,10 @@ function displayClock() {
 	var d = new Date();
 	var mm = monthNames[d.getMonth()];
 	var dd = d.getDate();
-	var yyyy = d.
+	var yyyy = d.getYear();
 	var min = (mins = ('0' + d.getMinutes()).slice(-2));
 	var hh = d.getHours();
-	var yyyy = d.getYear();
+	var ampm = '';
 
 	if (CONFIG.twelveHourFormat) {
 		ampm = hh >= 12 ? ' pm' : ' am';
