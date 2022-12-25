@@ -52,25 +52,25 @@ const CONFIG = {
 
 	firstButtonsContainer: [
 		{
-			id: '1',
+			id: '2',
 			name: 'Arch Linux Forums',
 			icon: 'terminal-square',
 			link: 'https://bbs.archlinux.org/',
 		},
 		{
-			id: '2',
+			id: '5',
 			name: 'Github',
 			icon: 'github',
 			link: 'https://github.com/halocaridina/',
 		},
 		{
-			id: '3',
+			id: '4',
 			name: 'Amazon',
 			icon: 'shopping-bag',
 			link: 'https://amazon.com/',
 		},
 		{
-			id: '4',
+			id: '6',
 			name: 'Ebay',
 			icon: 'gavel',
 			link: 'https://ebay.com/',
