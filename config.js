@@ -100,7 +100,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'glasses',
+			icon: 'laptop',
 			id: '1',
 			links: [
 				{
