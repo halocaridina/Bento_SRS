@@ -10,11 +10,11 @@
 
 :root {
   /* Font Size */
-  --fg-primary: 12vh; /* Time and Greetings */
-  --fg-secondary: 3vh; /* Greetings and Weather widger */
-  --fg-date: 8vh; /* Date */
-  --fg-list: 2vh; /* Links List */
-  --icon: 3vh; /* Icon Size */
+  --fg-primary: 18vh; /* Time and Greetings */
+  --fg-secondary: 9vh; /* Greetings and Weather widger */
+  --fg-date: 14vh; /* Date */
+  --fg-list: 8vh; /* Links List */
+  --icon: 9vh; /* Icon Size */
 
   /* Fonts Color */
   --fg: #3a3a3a; /* Foreground color */
