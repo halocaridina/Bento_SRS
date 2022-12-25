@@ -74,9 +74,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'Ebay',
+			icon: 'package-2',
+			link: 'https://ebay.com/',
 		},
 	],
 
