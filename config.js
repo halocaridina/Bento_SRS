@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'e041dbf51aa943ecae690cedf4875586', // Write here your API Key
@@ -36,10 +36,10 @@ const CONFIG = {
 	defaultLongitude: '-78.8046',
 
 	// Autochange
-	autoChangeTheme: true,
+	autoChangeTheme: false,
 
 	// Autochange by OS
-	changeThemeByOS: true,
+	changeThemeByOS: false,
 
 	// Autochange by hour options (24hrs format, string must be in: hh:mm)
 	changeThemeByHour: false,
@@ -63,6 +63,19 @@ const CONFIG = {
 			icon: 'glasses',
 			link: 'https://reddit.com',
 		},
+		{
+			id: '3',
+			name: 'Amazon',
+			icon: 'shopping-bag',
+			link: 'https://amazon.com/',
+		},
+		{
+			id: '4',
+			name: 'Ebay',
+			icon: 'package-2',
+			link: 'https://ebay.com/',
+		},
+
 	],
 
 	secondButtonsContainer: [
