@@ -53,15 +53,15 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/halocaridina',
+			name: 'Arch Linux Forums',
+			icon: 'terminal-square',
+			link: 'https://bbs.archlinux.org/',
 		},
 		{
 			id: '2',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com/halocaridina/',
 		},
 		{
 			id: '3',
@@ -72,7 +72,7 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Ebay',
-			icon: 'package-2',
+			icon: 'gavel',
 			link: 'https://ebay.com/',
 		},
 
@@ -100,46 +100,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'glasses',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Thinkpad',
+					link: 'https://www.reddit.com/r/thinkpad/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Linux on Thinkpad',
+					link: 'https://www.reddit.com/r/LinuxOnThinkpad/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Thinkpads 4 Sale',
+					link: 'https://www.reddit.com/r/thinkpadsforsale/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-			],
-		},
-		{
-			icon: 'coffee',
-			id: '2',
-			links: [
-				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
-				},
-				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
-				},
-				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
-				},
-				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'UNIX P0rn',
+					link: 'https://www.reddit.com/r/unixporn/',
 				},
 			],
 		},
