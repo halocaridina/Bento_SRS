@@ -104,19 +104,19 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Thinkpad',
+					name: 'Thinkpad Reddit',
 					link: 'https://www.reddit.com/r/thinkpad/',
 				},
 				{
-					name: 'Linux on Thinkpad',
-					link: 'https://www.reddit.com/r/LinuxOnThinkpad/',
+					name: 'Thinkpads.com Forum',
+					link: 'https://forum.thinkpads.com/',
 				},
 				{
-					name: 'Thinkpads 4 Sale',
+					name: 'Thinkpads 4 Sale Reddit',
 					link: 'https://www.reddit.com/r/thinkpadsforsale/',
 				},
 				{
-					name: 'UNIX P0rn',
+					name: 'UNIX P0rn Reddit',
 					link: 'https://www.reddit.com/r/unixporn/',
 				},
 			],
